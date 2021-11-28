@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "   ",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "sportsmod:baseball",
+    "count": 16
+  }
+}

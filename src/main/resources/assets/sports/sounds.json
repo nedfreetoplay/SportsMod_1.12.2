@@ -1,0 +1,10 @@
+ {
+  "baseballshoot": {"sounds": [{"name": "baseballshoot","stream": false}]},
+  "baseballcatch": {"sounds": [{"name": "baseballcatch","stream": false}]},
+  "basketballrebond": {"sounds": [{"name": "basketballrebond","stream": false}]},
+  "footballrebond": {"sounds": [{"name": "footballrebond","stream": false}]},
+  "footballshoot": {"sounds": [{"name": "footballshoot","stream": false}]},
+  "panier": {"sounds": [{"name": "panier","stream": false}]},
+  "tennisrebond": {"sounds": [{"name": "tennisrebond","stream": false}]},
+  "tennisshoot": {"sounds": [{"name": "tennisshoot","stream": false}]}
+  }

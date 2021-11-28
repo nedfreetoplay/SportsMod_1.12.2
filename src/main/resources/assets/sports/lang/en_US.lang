@@ -1,0 +1,12 @@
+item.Glove.name=Football Glove
+item.Racket.name=Racket
+item.Bat.name=Bat
+item.BaseBallGlove.name=Baseball Glove
+item.Football.name=Football
+item.Basket.name=Basketball
+item.Tennis.name=Tennis Ball
+item.Baseball.name=Baseball
+tile.blockPanier.name=Basketball Hoop
+tile.blocklauncher.name=Ball Launcher
+item.test_item.name=Test Item
+itemGroup.sports_tab.name=Sports Tab
